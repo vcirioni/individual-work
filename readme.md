@@ -9,3 +9,4 @@
 * Permissions
 
 * Ulteriore modifica
+* Aggiunta anche questa
